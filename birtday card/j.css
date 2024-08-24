@@ -1,0 +1,122 @@
+body{
+  background: linear-gradient(skyblue,pink);
+  text-align: center;
+  font-family: 'Happy Monkey', cursive;
+  text-shadow: 0px 0px 2px black;
+  color: white;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+
+  flex-direction: column;
+}
+#qq{
+   margin: 0px;
+  text-align: center;
+  font-family: 'Happy Monkey', cursive;
+
+  color: white;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  flex-direction: column;
+
+}
+#start{
+  width: 300px;
+  border-radius: 50%;
+  border: 10px solid #EFB0C9;
+}
+
+#bdy{
+  text-shadow: 0px 0px 2px black;
+
+}
+#bdy-date{
+  text-shadow: 0px 0px 2px black;
+  padding: 5px 10px 5px 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  background: #EFB0C9;
+}
+
+#bdy-year{
+  text-shadow: 0px 0px 2px black;
+  margin: 0px;
+  padding: 5px 10px 5px 10px;
+  border-radius: 5px;
+  background: #EFB0C9;
+
+}
+.gift{
+  width: 500px;
+  height: 500px;
+  border: 6px solid white;
+  border-radius: 5px;
+/*  background: linear-gradient(lightskyblue,white);*/
+   background: url(123.jpg);
+  background-size:contain;
+  margin-top: 20px;
+
+}
+.gift:hover{
+
+
+
+}
+.p{
+  margin-bottom: 0;
+}
+.qh{
+  margin-top: 0;
+}
+.card{
+  margin-top: 100px;
+
+
+}
+
+
+.pq{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+#helloo:hover{
+  background-image: url(b.gif);
+
+}
+
+
+#hello:hover{
+  background-image: url(concert-crowd.gif);
+
+}
+#hellooo:hover{
+  background-image: url(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ25laTRrNWJ0N3FuMmo2djQza3B3ZzZvajY2b21raGFodzN5NHFlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oNKLBehxbnoqY/giphy.webp);
+
+}
+#helloooo:hover{
+  background-image: url(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmUwd3VjdHZkNDc0d2hpc3dvc2JoejZveGwxbGdxYnc5eXhyeG92ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VIoJEvVTq8X1R3fqP7/giphy.webp);
+
+}
+
+#hellooooo{
+  height: 200px;
+  background-size: cover;
+}
+
+#hellooooo:hover{
+  background-image: url(cheers.gif);
+}
+
+.pok{
+  width: 550px;
+  font-style: italic;
+ margin-bottom: 20px;
+ margin-top: -30px;
+
+
+}
+a{
+  color: white;
+}
